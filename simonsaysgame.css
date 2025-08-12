@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+}
+.btn{
+    height: 12rem;
+    width: 12rem;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.pink{
+    background-color:#d55075 ;
+}
+.orange{
+    background-color:#fa903b;
+}
+.skyblue{
+    background-color: #58a0b9;
+}
+.blue{
+    background-color:#7794f8 ;
+}
+.whiteFlash{
+    background-color: white;
+}
+.greenFlash{
+    background-color: green;
+}
